@@ -1,0 +1,49 @@
+---
+title: "Teaching Non-STEM Students to Code"
+author: "Nick Paterno"
+institute: "OpenIntro, Pacific Lutheran University"
+date: "5 June 2021"
+output:
+  xaringan::moon_reader:
+    css: plu.css
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+    includes:
+      after_body: insert-logo.html
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+class: inverse, center, middle
+
+# Who Am I?
+
+---
+
+class: main, center, middle
+
+## Who Am I?
+
+```{r echo = FALSE, out.width = "20%", out.height="20%"}
+knitr::include_graphics("images/profile.jpg")
+```
+* In my tenth year of teaching
+
+--
+
+* Mostly self-taught statistics and writing code
+
+--
+
+* useR since 2016
+
+--- 
+
+class: main, center, middle
+
+# Stat: 231 Introductory Statistics
