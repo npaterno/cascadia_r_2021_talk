@@ -25,9 +25,8 @@ h1, h2, h3{
   bottom: 0px;
   left: 0px;
   background-image: url(https://upload.wikimedia.org/wikipedia/en/3/3e/SealofPLU.png);
-  background-size: fill;
+  background-size: contain;
   background-position: middle center;
-  background-repeat: no;
   opacity: 0.05;
 }
 
