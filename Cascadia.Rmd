@@ -19,12 +19,6 @@ output:
 options(htmltools.dir.version = FALSE)
 ```
 
-class: inverse, center, middle
-
-# Who Am I?
-
----
-
 class: main, center, middle
 
 ## Who Am I?
@@ -32,18 +26,48 @@ class: main, center, middle
 ```{r echo = FALSE, out.width = "20%", out.height="20%"}
 knitr::include_graphics("images/profile.jpg")
 ```
-* In my tenth year of teaching
+
+- In my tenth year of teaching
 
 --
 
-* Mostly self-taught statistics and writing code
+- Mostly self-taught statistics and writing code
 
 --
 
-* useR since 2016
+- useR since 2016
 
---- 
-
-class: main, center, middle
+---
 
 # Stat: 231 Introductory Statistics
+
+{Explain a bit about the class}
+
+---
+
+# Attempt Zero: 
+## Fall 2019
+
+{"first" attempt at teaching R. optional, script files, half dozen students interested}
+
+---
+# Attempt One 
+## J-Term 2020
+
+{first real attempt, Slide(s?) about teaching from script files, what worked what didn't}
+
+---
+
+# Second Attempt: 
+## Spring 2020 - Fall 2020
+
+{slide(s) about moving to rmarkdown, what worked what didn't}
+
+---
+
+# Third Times a Charm: 
+## Spring 2021
+
+{creating a package for the class, new labs, what's working, what isn't}
+
+---
