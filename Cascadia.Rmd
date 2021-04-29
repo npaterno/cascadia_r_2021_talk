@@ -1,7 +1,7 @@
 ---
 title: "Teaching Non-STEM Students to Code"
 author: "Nick Paterno"
-institute: "OpenIntro, Pacific Lutheran University"
+institute: "Pacific Lutheran University"
 date: "5 June 2021"
 output:
   xaringan::moon_reader:
@@ -19,11 +19,11 @@ output:
 options(htmltools.dir.version = FALSE)
 ```
 
-class: main, center, middle
+class: main
 
-## Who Am I?
+# Who Am I?
 
-```{r echo = FALSE, out.width = "20%", out.height="20%"}
+```{r echo = FALSE, out.width = "40%", out.height="40%"}
 knitr::include_graphics("images/profile.jpg")
 ```
 
@@ -39,34 +39,39 @@ knitr::include_graphics("images/profile.jpg")
 
 ---
 
+class: main, center
+
 # Stat: 231 Introductory Statistics
 
+```{r echo = FALSE, out.width = "40%", out.height="40%"}
+knitr::include_graphics("images/stat231.png")
+```
 {Explain a bit about the class}
 
 ---
 
 # Attempt Zero: 
-## Fall 2019
+### Fall 2019
 
 {"first" attempt at teaching R. optional, script files, half dozen students interested}
 
 ---
 # Attempt One 
-## J-Term 2020
+### J-Term 2020
 
 {first real attempt, Slide(s?) about teaching from script files, what worked what didn't}
 
 ---
 
 # Second Attempt: 
-## Spring 2020 - Fall 2020
+### Spring 2020 - Fall 2020
 
 {slide(s) about moving to rmarkdown, what worked what didn't}
 
 ---
 
 # Third Times a Charm: 
-## Spring 2021
+### Spring 2021
 
 {creating a package for the class, new labs, what's working, what isn't}
 

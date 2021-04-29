@@ -7,6 +7,7 @@ h1, h2, h3{
   font-family: Arial, Helvetica, Sans-Serif;
   color:#ffcc00;
   -webkit-text-stroke: 2px black;
+  text-align: left;
 }
 
 .inverse{
@@ -23,9 +24,10 @@ h1, h2, h3{
   top: 0px;
   right: 0px;
   bottom: 0px;
-  left: 0px;
+  left: 100px;
   background-image: url(https://upload.wikimedia.org/wikipedia/en/3/3e/SealofPLU.png);
   background-size: contain;
+  background-repeat: no-repeat;
   background-position: middle center;
   opacity: 0.05;
 }
@@ -40,4 +42,13 @@ h1, h2, h3{
   justify-content: center;
   align-items: center;
   color:black;
+  text-align: left;
+}
+
+main.h1{
+  text-align: center;
+}
+
+img{
+  float:right;
 }
