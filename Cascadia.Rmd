@@ -23,9 +23,12 @@ class: main
 
 # Who Am I?
 
+
 ```{r echo = FALSE, out.width = "40%", out.height="40%"}
 knitr::include_graphics("images/profile.jpg")
 ```
+
+--
 
 - In my tenth year of teaching
 
@@ -38,15 +41,40 @@ knitr::include_graphics("images/profile.jpg")
 - useR since 2016
 
 ---
+class: main
 
-class: main, center
+# Statistics at PLU
 
-# Stat: 231 Introductory Statistics
+- No Statistics Department or Major
+
+--
+
+- Committee of Economics, Math, Psychology, Sociology/Criminal Justice
+
+--
+
+- LOTS of intro courses
+
+---
+
+class: main
+
+# Stat 231: Introductory Statistics
+
 
 ```{r echo = FALSE, out.width = "40%", out.height="40%"}
 knitr::include_graphics("images/stat231.png")
 ```
-{Explain a bit about the class}
+
+- "Econ" stats
+
+--
+
+- Required by Business, Nursing, Kinesiology, Data Science*
+
+--
+
+- Wide range of academic standing and ability
 
 ---
 
@@ -66,8 +94,12 @@ knitr::include_graphics("images/stat231.png")
 # Second Attempt: 
 ### Spring 2020 - Fall 2020
 
-{slide(s) about moving to rmarkdown, what worked what didn't}
-
+.img_center[
+```{r echo = FALSE,out.width = "90%", out.height="90%"}
+knitr::include_graphics("images/rmarkdown_wizards_blank.png")
+```
+]
+.footer[Artwork by @allison_horst]
 ---
 
 # Third Times a Charm: 
