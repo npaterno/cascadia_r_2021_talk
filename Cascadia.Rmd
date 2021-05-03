@@ -59,7 +59,7 @@ class: main
 
 class: main
 
-# Stat 231: Introductory Statistics
+## Stat 231: Introductory Statistics
 
 
 ```{r echo = FALSE, out.width = "40%", out.height="40%"}
@@ -78,33 +78,56 @@ knitr::include_graphics("images/stat231.png")
 
 ---
 
-# Attempt Zero: 
+## Attempt Zero: 
 ### Fall 2019
 
-{"first" attempt at teaching R. optional, script files, half dozen students interested}
+
+```{r echo = FALSE,out.width = "80%", out.height="80%"}
+knitr::include_graphics("images/wing_it.jpg")
+```
 
 ---
-# Attempt One 
+## Attempt One 
 ### J-Term 2020
 
-{first real attempt, Slide(s?) about teaching from script files, what worked what didn't}
+```{r echo = FALSE,out.width = "90%", out.height="90%"}
+knitr::include_graphics("images/gru_script.jpg")
+```
 
 ---
 
-# Second Attempt: 
-### Spring 2020 - Fall 2020
+## Second Attempt: 
+### Fall 2020
 
-.img_center[
 ```{r echo = FALSE,out.width = "90%", out.height="90%"}
 knitr::include_graphics("images/rmarkdown_wizards_blank.png")
 ```
-]
+
 .footer[Artwork by @allison_horst]
 ---
 
-# Third Times a Charm: 
+class: main
+
+## Third Times a Charm: 
 ### Spring 2021
 
-{creating a package for the class, new labs, what's working, what isn't}
+```{r echo = FALSE,out.width = "30%", out.height="30%"}
+knitr::include_graphics("images/pkgdown.png")
+```
 
+--
+
+- Installed necessary packages as "dependencies"
+
+--
+
+- Lessons saved as vignettes
+
+--
+
+- R Markdown Templates for Assignments
+
+--
+
+- Available at: github.com/npaterno/stat231
 ---
