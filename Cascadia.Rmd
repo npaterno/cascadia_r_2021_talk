@@ -19,31 +19,20 @@ output:
 options(htmltools.dir.version = FALSE)
 ```
 
-class: main
+class: inverse, left, top
 
-# Who Am I?
+## Nick Paterno
 
-
-```{r echo = FALSE, out.width = "40%", out.height="40%"}
-knitr::include_graphics("images/profile.jpg")
-```
-
---
-
-- In my tenth year of teaching
-
---
-
-- Mostly self-taught statistics and writing code
-
---
-
-- useR since 2016
+<img style="border-radius: 50%;" src="images/profile.jpg" width="300px"/>
+  
+[`r icons::fontawesome$brands$twitter` @mathl3t3](http://twitter.com/mathl3t3)  
+[`r icons::fontawesome$brands$github` @npaterno](http://github.com/npaterno)  
+[`r icons::fontawesome$regular$envelope` paternnj@plu.edu](mailto:paternj@plu.edu)
 
 ---
 class: main
 
-# Statistics at PLU
+## Statistics at PLU
 
 - No Statistics Department or Major
 
@@ -59,7 +48,8 @@ class: main
 
 class: main
 
-## Stat 231: Introductory Statistics
+## Stat 231:
+### Introductory Statistics
 
 
 ```{r echo = FALSE, out.width = "40%", out.height="40%"}
@@ -131,23 +121,16 @@ knitr::include_graphics("images/pkgdown.png")
 
 - Available at: github.com/npaterno/stat231
 ---
+class: inverse
 
-{SCRATCH TO BE MODIFIED/ADDED?}
+<img style="border-radius: 50%;" src="images/profile.jpg" width="300px"/>
 
-<img style="border-radius: 50%;" src="https://alison.rbind.io/authors/alison/avatar.jpg" width="150px"/>
+# Thank you!
   
+### Find me at...
   
-  [`r icon::fa("github")` @apreshill](https://github.com/apreshill)  
-[`r icon::fa("twitter")` @apreshill](https://twitter.com/apreshill)  
-[`r icon::fa("link")` alison.rbind.io](https://alison.rbind.io)
+[`r icons::fontawesome$brands$twitter` @mathl3t3](http://twitter.com/mathl3t3)  
+[`r icons::fontawesome$brands$github` @npaterno](http://github.com/npaterno)  
+[`r icons::fontawesome$regular$envelope` paternnj@plu.edu](mailto:paternj@plu.edu)
+---
 
-<img style="border-radius: 50%;" src="https://github.com/apreshill.png" width="150px"/>
-  
-  # Thank you!
-  
-  ### Find me at...
-  
-  [`r icon::fa("twitter")` @apreshill](http://twitter.com/apreshill)  
-[`r icon::fa("github")` @apreshill](http://github.com/apreshill)  
-[`r icon::fa("link")` alison.rbind.io](https://alison.rbind.io)  
-[`r icon::fa("paper-plane")` alison@rstudio.com](mailto:alison@rstudio.com)
