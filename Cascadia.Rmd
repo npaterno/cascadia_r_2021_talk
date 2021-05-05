@@ -131,3 +131,23 @@ knitr::include_graphics("images/pkgdown.png")
 
 - Available at: github.com/npaterno/stat231
 ---
+
+{SCRATCH TO BE MODIFIED/ADDED?}
+
+<img style="border-radius: 50%;" src="https://alison.rbind.io/authors/alison/avatar.jpg" width="150px"/>
+  
+  
+  [`r icon::fa("github")` @apreshill](https://github.com/apreshill)  
+[`r icon::fa("twitter")` @apreshill](https://twitter.com/apreshill)  
+[`r icon::fa("link")` alison.rbind.io](https://alison.rbind.io)
+
+<img style="border-radius: 50%;" src="https://github.com/apreshill.png" width="150px"/>
+  
+  # Thank you!
+  
+  ### Find me at...
+  
+  [`r icon::fa("twitter")` @apreshill](http://twitter.com/apreshill)  
+[`r icon::fa("github")` @apreshill](http://github.com/apreshill)  
+[`r icon::fa("link")` alison.rbind.io](https://alison.rbind.io)  
+[`r icon::fa("paper-plane")` alison@rstudio.com](mailto:alison@rstudio.com)
