@@ -23,7 +23,7 @@ class: inverse, left, top
 
 ## Nick Paterno
 
-<img style="border-radius: 50%;" src="images/profile.jpg" width="300px"/>
+<img style="border-radius: 50%;" alt="Profile Picture" src="images/profile.jpg" width="300px"/>
   
 [`r icons::fontawesome$brands$twitter` @mathl3t3](http://twitter.com/mathl3t3)  
 [`r icons::fontawesome$brands$github` @npaterno](http://github.com/npaterno)  
@@ -52,7 +52,7 @@ class: main
 ### Introductory Statistics
 
 
-```{r echo = FALSE, out.width = "40%", out.height="40%"}
+```{r echo = FALSE, out.width = "40%", out.height="40%", fig.cap="Hexagon Logo for Class"}
 knitr::include_graphics("images/stat231.png")
 ```
 
@@ -72,7 +72,7 @@ knitr::include_graphics("images/stat231.png")
 ### Fall 2019
 
 
-```{r echo = FALSE,out.width = "80%", out.height="80%"}
+```{r echo = FALSE,out.width = "80%", out.height="80%", fig.cap="Quote: I'm gonna wing it"}
 knitr::include_graphics("images/wing_it.jpg")
 ```
 
@@ -80,7 +80,7 @@ knitr::include_graphics("images/wing_it.jpg")
 ## Attempt One 
 ### J-Term 2020
 
-```{r echo = FALSE,out.width = "90%", out.height="90%"}
+```{r echo = FALSE,out.width = "90%", out.height="90%", fig.cap="Meme of Gru from Dispicable Me"}
 knitr::include_graphics("images/gru_script.jpg")
 ```
 
@@ -89,7 +89,7 @@ knitr::include_graphics("images/gru_script.jpg")
 ## Second Attempt: 
 ### Fall 2020
 
-```{r echo = FALSE,out.width = "90%", out.height="90%"}
+```{r echo = FALSE,out.width = "90%", out.height="90%", fig.cap="RMarkdown Wizards generating reports"}
 knitr::include_graphics("images/rmarkdown_wizards_blank.png")
 ```
 
@@ -101,7 +101,7 @@ class: main
 ## Third Times a Charm: 
 ### Spring 2021
 
-```{r echo = FALSE,out.width = "30%", out.height="30%"}
+```{r echo = FALSE,out.width = "30%", out.height="30%", fig.cap="Hexagon logo for Package Down"}
 knitr::include_graphics("images/pkgdown.png")
 ```
 
@@ -123,7 +123,7 @@ knitr::include_graphics("images/pkgdown.png")
 ---
 class: inverse
 
-<img style="border-radius: 50%;" src="images/profile.jpg" width="300px"/>
+<img style="border-radius: 50%;" alt="Profile Picture" src="images/profile.jpg" width="300px"/>
 
 # Thank you!
   
