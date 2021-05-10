@@ -51,10 +51,7 @@ class: main
 ## Stat 231:
 ### Introductory Statistics
 
-
-```{r echo = FALSE, out.width = "40%", out.height="40%", fig.cap="Hexagon Logo for Class"}
-knitr::include_graphics("images/stat231.png")
-```
+<img alt="Hexagon Logo for Class" src="images/stat231.png" width="300px"/>
 
 - "Econ" stats
 
@@ -71,27 +68,20 @@ knitr::include_graphics("images/stat231.png")
 ## Attempt Zero: 
 ### Fall 2019
 
-
-```{r echo = FALSE,out.width = "80%", out.height="80%", fig.cap="Quote: I'm gonna wing it"}
-knitr::include_graphics("images/wing_it.jpg")
-```
+<img alt="Quote: I'm gonna wing it" src="images/wing_it.jpg" width="600px"/>
 
 ---
 ## Attempt One 
 ### J-Term 2020
 
-```{r echo = FALSE,out.width = "90%", out.height="90%", fig.cap="Meme of Gru from Dispicable Me"}
-knitr::include_graphics("images/gru_script.jpg")
-```
+<img alt="Meme of Gru from Despicable Me" src="images/gru_script.jpg" width="600px"/>
 
 ---
 
 ## Second Attempt: 
 ### Fall 2020
 
-```{r echo = FALSE,out.width = "90%", out.height="90%", fig.cap="RMarkdown Wizards generating reports"}
-knitr::include_graphics("images/rmarkdown_wizards_blank.png")
-```
+<img alt="RMarkdown Wizards generating reports" src="images/rmarkdown_wizards_blank.png" width="600px"/>
 
 .footer[Artwork by @allison_horst]
 ---
@@ -101,9 +91,7 @@ class: main
 ## Third Times a Charm: 
 ### Spring 2021
 
-```{r echo = FALSE,out.width = "30%", out.height="30%", fig.cap="Hexagon logo for Package Down"}
-knitr::include_graphics("images/pkgdown.png")
-```
+<img alt="Hexagon Logo Package Down" src="images/pkgdown.png" width="300px"/>
 
 --
 
