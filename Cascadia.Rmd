@@ -19,6 +19,10 @@ output:
 options(htmltools.dir.version = FALSE)
 ```
 
+```{r openMic, include=FALSE}
+openMic::openMic()
+```
+
 class: inverse, left, top
 
 ## Nick Paterno
